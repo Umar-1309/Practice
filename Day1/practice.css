@@ -1,0 +1,11 @@
+#bg{
+    /* background-color: yellow; */
+    background-image:url(bg.jpg), url(bg2.png);
+    background-repeat: no-repeat;
+    background-position: left top , right bottom;   
+    /* background-position: center center; */
+    /* background-size: 70% 40% 50% 30%; */
+    /* background-attachment: fixed; */
+    /* background-size: cover; */
+    /* background-color: red; */
+}
