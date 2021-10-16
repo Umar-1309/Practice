@@ -1,0 +1,33 @@
+#h2{
+    color: red;
+}
+
+body{
+    background-color: green;
+}
+
+#bg{
+    /* background-color: yellow; */
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    /* background-size: 30p% 40%; */
+    background-size: contain;
+    background-attachment: scroll;
+    border-style: ridge;
+    border-width: 25px;
+    border-color: blue rgb(238, 18, 154);
+    border-radius: 50%;
+    padding-top:  500px;
+    padding-bottom: 20px;
+    padding-left: 50%;
+    margin-top: 10px;
+    margin: auto;
+}
+
+#div1{
+    background-color: blue;
+    height: 100px;
+    width: 500px;
+    max-width: 400px;
+    max-height: 70px;
+}
