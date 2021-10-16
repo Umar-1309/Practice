@@ -1,0 +1,48 @@
+#shdw{
+    font-size: 70px;
+    text-shadow: black 50px -10px 5px;
+    color: red
+}
+
+
+#txt{
+    width: 500px;
+    border: 2px solid red ;
+    color: blue;
+    /* text-align: right; */
+    /* text-align: center; */
+    /* text-align: justify; */
+    /* text-align: start; */
+    /* direction: rtl; */
+    direction: ltr;
+    height: 300px;
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    /* text-decoration: line-through; */
+    /* text-transform: capitalize; */
+    /* text-transform: lowercase; */
+    /* text-transform: uppercase; */
+    /* line-height: 30px; */
+    /* text-indent: 50px; */
+    /* letter-spacing: 10px; */
+    /* word-spacing: 10px; */
+    /* white-space: pre; */
+    /* white-space:  nowrap; */
+    /* white-space: wrap; */
+
+    margin-bottom: 10px;
+}
+
+#img{
+    width: 70px;
+    height: 100px;
+    border: 3px solid black;
+    /* vertical-align: top; */
+    /* vertical-align: middle; */
+    /* vertical-align: text-bottom; */
+}
+#text{
+    width: 500px;
+    border: 5px solid blue;
+    writing-mode: vertical-rl;
+}
