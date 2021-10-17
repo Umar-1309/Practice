@@ -1,0 +1,12 @@
+div{
+    border: 2px solid red;
+    /* cursor: auto; */
+    /* cursor: not-allowed; */
+    /* cursor: all-scroll; */
+    /* cursor: cell; */
+    /* cursor: col-resize; */
+    /* cursor: e-resize; */
+    /* cursor: progress; */
+    /* cursor: wait; */
+    cursor: grab;
+}
