@@ -1,0 +1,14 @@
+#overflow{
+     background-color: whitesmoke;
+     border: 2px solid blue;
+     width: 500px;
+     height: 300px;
+     /* overflow: visible; */
+     /* overflow: hidden; */
+     /* overflow-y: scroll; */
+     overflow: auto;
+     resize: both;
+}
+textarea{
+    resize: none;
+}
