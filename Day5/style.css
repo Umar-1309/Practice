@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    margin-left: 35%;
+    /* border: 2px solid red; */
+}
+
+div{
+    border: 2px solid red;
+    width: 500px;
+    background-color: yellowgreen;
+    margin: 20px;
+    padding: 20px;
+    /* box-shadow: 10px 20px grey; */
+    /* box-shadow: 10px 20px 15px grey; */
+     /* box-shadow: 10px 20px 15px 10px grey inset; */
+     box-shadow: 10px 15px 3px grey, -10px 20px 15px 3px red;
+}
