@@ -1,0 +1,21 @@
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-spacing: 15px 25px;
+    table-layout: auto;
+}
+
+th{
+    border: 2px solid black;
+    height: 25px;
+    padding: 5px;
+    width: 120px;
+}
+
+td{
+    border: 2px solid black;
+    height: 25px;
+    padding: 5px;
+    text-align: center;
+    vertical-align: bottom;
+}
