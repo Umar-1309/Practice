@@ -1,0 +1,20 @@
+:root{
+    --primmary-color: teal;
+    --btn-color: blueviolet;
+    --text-color: white;
+}
+
+#fun{ 
+     background-color: teal; var(--primary-color)
+     height: 700px;
+     /* width: 70%; */
+     width: calc(100% 200px);
+}
+
+a{
+    padding: 10px 30px;
+    margin: 20px;
+     background-color: blueviolet;
+     color: white;
+     text-decoration: none;
+}
