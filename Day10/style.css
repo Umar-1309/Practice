@@ -1,0 +1,32 @@
+ 
+li:first-child{
+    color: red;
+} 
+
+li:last-child{
+    color: red;
+} 
+ 
+li:nth-child(4){
+    color: red;
+} 
+
+li:nth-child(odd){
+    color: red;
+} 
+
+ li:nth-child(even){
+    color: rgb(255, 9, 9);
+} 
+
+li:nth-child(3n+0){
+    color: rgb(255, 9, 9);
+
+
+li:nth-child(3n+1){
+    color: rgb(255, 9, 9);
+}
+
+input:focus{
+    border: 3px solid red;
+}
